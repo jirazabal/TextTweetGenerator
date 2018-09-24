@@ -1,7 +1,8 @@
 Compilation Instructions:
 
 1) g++ -std=c++11 markov.cpp
-2) /.a.out
+2) /.a.out or /.a.out [filenmame] 
+        e.g. ./a.out dprk.txt
 
 Running Instructions:
 
